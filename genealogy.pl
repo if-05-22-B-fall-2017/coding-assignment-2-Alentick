@@ -3,7 +3,7 @@ parent(eve,john).
 parent(eve,lisa).
 parent(john,anne).
 parent(john,pat).
-parent(pat,jacob)
+parent(pat,jacob).
 parent(carol,jacob).
 /*parent(X,pat).*/
 /*parent(lisa,X).*/
